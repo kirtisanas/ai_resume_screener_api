@@ -55,4 +55,4 @@ Analysis Result
 
 The API provides interactive documentation using Swagger UI.
 
-![Swagger UI](swagger_ui.png)
+![Swagger UI](./swagger_ui.png)
