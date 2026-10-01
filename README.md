@@ -50,3 +50,9 @@ Skill Matching
 SQLite Database
     ↓
 Analysis Result
+
+## Swagger UI
+
+The API provides interactive documentation using Swagger UI.
+
+![Swagger UI](swagger-ui.png)
